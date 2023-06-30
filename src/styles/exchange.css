@@ -1,0 +1,8 @@
+.exchanges{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    flex-direction: row;
+    justify-content: center;
+
+}

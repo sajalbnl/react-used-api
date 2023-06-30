@@ -1,0 +1,24 @@
+
+.Home{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: auto;
+  
+    
+}
+
+.btcImg{
+    max-height: 600px;
+    max-width: 600px;
+    flex-shrink: 2;
+    
+    
+}
+.text{
+    font-size: 40px;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}

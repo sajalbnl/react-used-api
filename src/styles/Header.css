@@ -1,0 +1,19 @@
+
+nav{
+    
+    background-color: rgb(51, 49, 49);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    justify-content: space-around;
+}
+nav>a{
+    
+        font-size: 24px;
+        text-decoration: none;
+        color: white;
+}
+nav>a:hover{
+    color: red;
+}
